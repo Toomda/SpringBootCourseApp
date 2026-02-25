@@ -5,6 +5,7 @@ services:
     environment:
       POSTGRES_USER: toomda
       POSTGRES_PASSWORD: password
+      POSTGRES_DB: course
       PGDATA: /data/postgres
     volumes:
       - db:/data/postgres
