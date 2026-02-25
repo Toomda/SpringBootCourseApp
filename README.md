@@ -15,3 +15,12 @@ This repository is intended purely for learning and experimentation. It demonstr
 - Basic testing setup
 - Clean project structure
 - Using Docker for creating a Postgresql Database
+
+## Starting the App
+
+To start the App follow these steps
+
+1. Install Java JDK 25, Docker and IntelliJ
+2. Clone Repo and open in IntelliJ
+3. Execute "docker compose up -d" in the IntelliJ terminal
+5. Run the app :)
